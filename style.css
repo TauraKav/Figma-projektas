@@ -96,7 +96,7 @@ p.first-section-description {
 }
 
 .second-section {
-    background-image: url(/img/background.jpg);
+    background-image: url(./img/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -183,7 +183,7 @@ img.inner-section-image {
 }
 
 .inner-section .info-wrapper .price::before {
-    content: url(/img/small\ img.svg);
+    content: url(./img/small\ img.svg);
     padding-right: 8px;
 }
 
